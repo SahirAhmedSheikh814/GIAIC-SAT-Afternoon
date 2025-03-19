@@ -24,3 +24,5 @@ def items(*n):
     print(sum)
 
 items(2, 2, 5,6 , 7, 2, 2)
+
+
