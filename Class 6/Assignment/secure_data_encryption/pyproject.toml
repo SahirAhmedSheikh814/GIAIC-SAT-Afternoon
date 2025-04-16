@@ -1,0 +1,7 @@
+[project]
+name = "secure-data-encryption"
+version = "0.1.0"
+description = "A Streamlit-based web app for securely encrypting and storing sensitive data using Fernet encryption and PBKDF2 hashing. Features multi-user login, isolated data storage in JSON, and a lockout mechanism to prevent brute-force attacks."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
